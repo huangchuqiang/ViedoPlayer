@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ViedoPlayer", "ViedoPlayer\ViedoPlayer.vcxproj", "{EA6D5FE5-78DB-49DC-A84B-81476AF5BBF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA6D5FE5-78DB-49DC-A84B-81476AF5BBF0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EA6D5FE5-78DB-49DC-A84B-81476AF5BBF0}.Debug|Win32.Build.0 = Debug|Win32
+		{EA6D5FE5-78DB-49DC-A84B-81476AF5BBF0}.Release|Win32.ActiveCfg = Release|Win32
+		{EA6D5FE5-78DB-49DC-A84B-81476AF5BBF0}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
